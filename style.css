@@ -82,7 +82,7 @@ button:active {
 }
 
 .quote-button:hover {
-  color: hsl(0, 100%, 30%);
+  color: rgba(0, 255, 0, 0.4);
 }
 
 .fa-twitter {
